@@ -22,16 +22,16 @@
 #
 #######################################################################
 
-__version__ = '6.0.5.1'
+__version__   = '6.0.5.1'
 
-__appname__ = 'VidCutter'
-__domain__ = 'ozmartians.com'
-__desktopid__ = 'com.ozmartians.VidCutter'
-__appid__ = 'vidcutter-CCDC440A-CC57-4BED-8CDE-1DA285976A64'
+__appname__   = 'EasyCut'
+__domain__    = 'coming soon'
+__desktopid__ = 'com.ozmartians.EasyCut'
+__appid__     = 'easycut-CCDC440A-CC57-4BED-8CDE-1DA285976A64'
 
-__author__ = 'Pete Alexandrou'
-__email__ = 'pete@ozmartians.com'
-__website__ = 'https://vidcutter.ozmartians.com'
-__bugreport__ = 'https://github.com/ozmartian/vidcutter/issues'
+__author__    = 'Zenahr Barzani'
+__email__     = 'zenmatica@gmail.com'
+__website__   = 'coming soon'
+__bugreport__ = 'coming soon'
 
 __ispypi__ = False

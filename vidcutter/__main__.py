@@ -163,7 +163,7 @@ class MainWindow(QMainWindow):
             self.restoreGeometry(self.settings.value('geometry'))
         if self.settings.value('windowState') is not None:
             self.restoreState(self.settings.value('windowState'))
-        self.theme = self.settings.value('theme', 'light', type=str)
+        self.theme = self.settings.value('theme', 'dark', type=str) # dark mode by default
         self.startupvol = self.settings.value('volume', 100, type=int)
         self.verboseLogs = self.settings.value('verboseLogs', 'off', type=str) in {'on', 'true'}
 
